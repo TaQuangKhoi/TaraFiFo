@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TaraFiFo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TaraFiFo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
